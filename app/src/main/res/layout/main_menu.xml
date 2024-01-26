@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/menu_add_task"
+        android:title="Dodaj zadanie"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_delete_tasks"
+        android:title="Usuń zadania"
+        app:showAsAction="never" />
+</menu>
